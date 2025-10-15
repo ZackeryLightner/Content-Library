@@ -171,6 +171,7 @@
   },
   "active": "cbec86c58de173c4",
   "lastOpenFiles": [
+    "_config.yml",
     "CNAME",
     "6.md",
     "index.md",
@@ -182,7 +183,6 @@
     "2-Content/2.3-Notes",
     "2-Content/2.2-Knowledge",
     "2-Content/2.1-Original Content",
-    "1-Causes",
-    "0-Hidden"
+    "1-Causes"
   ]
 }
