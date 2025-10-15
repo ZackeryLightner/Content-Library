@@ -4,4 +4,4 @@ description: Zackery's Content Library
 plugins:
   - jekyll-remote-theme
 
-  remote-theme: just-the-docs
+  remote-theme: just-the-docs/just-the-docs
