@@ -1,4 +1,4 @@
-remote_theme: just-the-docs
+remote_theme: bencentra/centrarium
 baseurl: "/content-library"
 title: Zackery's Content Library
 description: Zackery's Content Library
