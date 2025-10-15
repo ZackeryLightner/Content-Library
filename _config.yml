@@ -1,6 +1,6 @@
 title: Zackery's Content Library
 description: Zackery's Content Library
 
-remote-theme: sharu725/online-cv
+remote_theme: just-the-docs/just-the-docs
 
 baseurl: "/content-library"
