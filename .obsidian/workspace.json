@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2-Content/2.3-Notes/test-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "test-note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2-Content/2.3-Notes/test-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for test-note"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2-Content/2.3-Notes/test-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from test-note"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "2-Content/2.3-Notes/test-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of test-note"
             }
           }
         ]
@@ -171,10 +171,11 @@
   },
   "active": "cbec86c58de173c4",
   "lastOpenFiles": [
+    "index.md",
+    "2-Content/2.3-Notes/test-note.md",
     "_config.yml",
     "CNAME",
     "6.md",
-    "index.md",
     "0-Hidden/0.0-Inbox",
     "3-Logs",
     "2-Content",
@@ -182,7 +183,6 @@
     "2-Content/2.4-Quotes",
     "2-Content/2.3-Notes",
     "2-Content/2.2-Knowledge",
-    "2-Content/2.1-Original Content",
-    "1-Causes"
+    "2-Content/2.1-Original Content"
   ]
 }
