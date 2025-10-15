@@ -1,4 +1,5 @@
-remote_theme: bencentra/centrarium
-baseurl: "/Content-Library"
+theme: minima
+
+# Your site details
 title: Zackery's Content Library
 description: Zackery's Content Library
