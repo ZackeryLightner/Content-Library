@@ -1,5 +1,3 @@
+theme:
 title: Zackery's Content Library
 description: Zackery's Content Library
-
-remote_theme: just-the-docs/just-the-docs
-baseurl: "/content-library"
