@@ -1,5 +1,5 @@
 title: Zackery's Content Library
 description: Zackery's Content Library
 
-remote_theme: tomjoht/documentation-theme-jekyll
+remote_theme: just-the-docs/just-the-docs
 baseurl: "/content-library"
