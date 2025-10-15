@@ -1,4 +1,15 @@
 remote_theme: just-the-docs/just-the-docs
-baseurl: "/Content-Library"
+
+# Your site details
 title: Zackery's Content Library
 description: Zackery's Content Library
+baseurl: "/Content-Library" # Verify this EXACTLY matches your repo name!
+
+# Theme Plugins
+plugins:
+  - jekyll-remote-theme
+  - just-the-docs
+
+# Theme Specific Settings
+search_enabled: true
+color_scheme: dark # Optional, but good to add some color
