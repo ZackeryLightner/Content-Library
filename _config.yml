@@ -1,7 +1,4 @@
 title: Zackery's Content Library
 description: Zackery's Content Library
 
-plugins:
-  - jekyll-remote-theme
-
   remote-theme: just-the-docs/just-the-docs
