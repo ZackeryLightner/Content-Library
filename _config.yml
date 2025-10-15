@@ -1,0 +1,14 @@
+# Basic Site Settings
+title: Zackery's Content Library
+description: Zackery Lightner's Content Library
+email: contact@zackerylightner.com
+
+# Theme Configuration
+remote_theme: just-the-docs
+
+# Navigation Settings (This is key for a wiki)
+nav_sort: title # Sorts sidebar links by title
+search_enabled: true # Enables the built-in search bar
+
+# Footer Configuration
+gh_edit_link: true # Adds an "Edit this page on GitHub" link to the bottom of every page
